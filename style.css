@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  padding-left: 0;
+}
+
+#score {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  padding: 12px;
+  font-size: xxx-large;
+  font-weight: bold;
+  text-align: center;
+}
+
+.round-container {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  padding: 12px;
+  font-size: xx-large;
+  font-weight: bold;
+  text-align: center;
+}
+
